@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E37D199-E13C-4994-94A5-444007F9EF75</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>646fb212-6d06-11e3-a2a4-57cd746879f3++1155</key>
+		<string>svn://192.168.0.179/BloodSugar/BloodSugar_iOS_V1/Views/MJRefresh/MJRefresh.bundle</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>646fb212-6d06-11e3-a2a4-57cd746879f3++1155</key>
+		<string>MJRefresh.bundle/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>646fb212-6d06-11e3-a2a4-57cd746879f3++1155</key>
+		<string>svn://192.168.0.179/BloodSugar</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.0.179/BloodSugar/BloodSugar_iOS_V1/Views/MJRefresh/MJRefresh.bundle</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>646fb212-6d06-11e3-a2a4-57cd746879f3++1155</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>646fb212-6d06-11e3-a2a4-57cd746879f3++1155</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MJRefresh.bundle</string>
+		</dict>
+	</array>
+</dict>
+</plist>

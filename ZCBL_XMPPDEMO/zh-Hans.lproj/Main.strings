@@ -1,0 +1,78 @@
+
+/* Class = "UIViewController"; title = "我"; ObjectID = "2Lc-RV-GUm"; */
+"2Lc-RV-GUm.title" = "我";
+
+/* Class = "UITextField"; text = "bingtianyu"; ObjectID = "4kb-Hi-2oX"; */
+"4kb-Hi-2oX.text" = "bingtianyu";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "77Q-ZO-TYI"; */
+"77Q-ZO-TYI.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "消息列表"; ObjectID = "87Q-Ct-h1p"; */
+"87Q-Ct-h1p.title" = "消息列表";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "9aE-ka-6uY"; */
+"9aE-ka-6uY.title" = "我";
+
+/* Class = "UILabel"; text = "账号"; ObjectID = "Ajf-BT-WEe"; */
+"Ajf-BT-WEe.text" = "账号";
+
+/* Class = "UILabel"; text = "HostName"; ObjectID = "Ay4-FE-DVG"; */
+"Ay4-FE-DVG.text" = "HostName";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hbt-pp-lwH"; */
+"Hbt-pp-lwH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "登陆"; ObjectID = "IH8-Kz-aod"; */
+"IH8-Kz-aod.normalTitle" = "登陆";
+
+/* Class = "UITabBarItem"; title = "好友列表"; ObjectID = "Igd-e2-BgK"; */
+"Igd-e2-BgK.title" = "好友列表";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "JI9-ki-eD3"; */
+"JI9-ki-eD3.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JPa-Mc-PQZ"; */
+"JPa-Mc-PQZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Domain"; ObjectID = "Ng0-3b-21s"; */
+"Ng0-3b-21s.text" = "Domain";
+
+/* Class = "UIViewController"; title = "消息列表"; ObjectID = "REb-Ni-hgm"; */
+"REb-Ni-hgm.title" = "消息列表";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "ZS0-fi-QBy"; */
+"ZS0-fi-QBy.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "HostPort"; ObjectID = "a8s-qq-QKa"; */
+"a8s-qq-QKa.text" = "HostPort";
+
+/* Class = "UIBarButtonItem"; title = "确认修改"; ObjectID = "am0-Li-6Fw"; */
+"am0-Li-6Fw.title" = "确认修改";
+
+/* Class = "UIButton"; normalTitle = "刷新列表"; ObjectID = "cJI-0y-XMU"; */
+"cJI-0y-XMU.normalTitle" = "刷新列表";
+
+/* Class = "UITextField"; text = "bingtianyu"; ObjectID = "dxu-LG-p9I"; */
+"dxu-LG-p9I.text" = "bingtianyu";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "jxg-yy-Q5h"; */
+"jxg-yy-Q5h.text" = "密码";
+
+/* Class = "UIButton"; normalTitle = "退出当前账号"; ObjectID = "kCx-hX-CFX"; */
+"kCx-hX-CFX.normalTitle" = "退出当前账号";
+
+/* Class = "UIButton"; normalTitle = "服务器配置"; ObjectID = "nnp-G1-Dea"; */
+"nnp-G1-Dea.normalTitle" = "服务器配置";
+
+/* Class = "UIViewController"; title = "好友列表"; ObjectID = "qhl-r1-8R2"; */
+"qhl-r1-8R2.title" = "好友列表";
+
+/* Class = "UILabel"; text = "账号"; ObjectID = "tAd-CE-BgX"; */
+"tAd-CE-BgX.text" = "账号";
+
+/* Class = "UIButton"; normalTitle = "添加好友"; ObjectID = "wED-ys-VQE"; */
+"wED-ys-VQE.normalTitle" = "添加好友";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "z7U-7h-nmX"; */
+"z7U-7h-nmX.text" = "密码";
